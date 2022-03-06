@@ -1,5 +1,5 @@
 # PortfolioLandingPage
-##(Week One Assignment - Moringa School)
+### (Week One Assignment - Moringa School)
 
 # Table of Content
 + [Description ](#overall-project-description)
